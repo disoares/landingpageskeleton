@@ -1,0 +1,19 @@
+{
+    "name": "diegosoares/landingpageskeleton",
+    "description": "Landing page genérica para projetos",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Diego Soares",
+            "email": "soaressd01@gmail.com"
+        }
+    ],
+    "require": {
+        "rain/raintpl": ">=3.0.0",
+        "slim/slim": "3.*"
+    }
+}
